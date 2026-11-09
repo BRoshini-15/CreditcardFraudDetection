@@ -70,11 +70,11 @@ CreditcardFraudDetection/
 
 ## How to Run 
 
-1 Open Google colab / Jupyter Notebook
-2 Upload or import Creditcard.ipynb file
-3 Connect to runtime
-4 Upload the dataset
-5 Run all cells using shift + Enter
+- Open Google colab / Jupyter Notebook
+- Upload or import Creditcard.ipynb file
+- Connect to runtime
+- Upload the dataset
+- Run all cells using shift + Enter
 
 
 ## License
