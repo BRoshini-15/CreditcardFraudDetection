@@ -56,7 +56,7 @@ All four models were evaluated on the same held-out test set (29 actual fraud ca
 
 ```
 CreditcardFraudDetection/
-├── Creditcard.py                    # Main training & evaluation script
+├── Creditcard.ipynd                 # Main training & evaluation script
 ├── creditcard.csv                   # Dataset (not included — download from Kaggle)
 ├── model_comparison_results.csv     # Output: metrics for all models
 ├── confusion_matrix_Decision_Tree   # Output: confusion matrix per model   
