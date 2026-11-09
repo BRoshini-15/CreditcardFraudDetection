@@ -68,22 +68,14 @@ CreditcardFraudDetection/
 └── README.md
 ```
 
-## How to Run
+## How to Run 
 
-```bash
-# Clone the repository
-git clone https://github.com/BRoshini-15/CreditcardFraudDetection.git
-cd CreditcardFraudDetection
+1 Open Google colab / Jupyter Notebook
+2 Upload or import Creditcard.ipynb file
+3 Connect to runtime
+4 Upload the dataset
+5 Run all cells using shift + Enter
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Download creditcard.csv from Kaggle and place it in this folder:
-https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
-
-# Run the training/evaluation script
-python credit_card_fraud_detection.py
-```
 
 ## License
 
