@@ -1,4 +1,4 @@
-# Credit Card Fraud Detection
+# Credit Card Fraud Detection 💳
 
 A machine learning project to detect fraudulent credit card transactions using multiple supervised classification algorithms, with a focus on handling severe class imbalance.
 
